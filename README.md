@@ -1,0 +1,1 @@
+# EsportsCoverageAPI-for-PHP
