@@ -8,4 +8,4 @@ Available functions:
 * SetCurrentPlayers(string $player1name, string $player2name, int $player1score = 0, int $player2score = 0)
 * SetCurrentScore(int $player1score, int $player2score)
 
-For usage, check out test.php
+For usage, check out [https://github.com/partouf/EsportsCoverageAPI-for-PHP/blob/master/test.php](test.php)
